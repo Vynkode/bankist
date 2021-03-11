@@ -1,0 +1,23 @@
+{
+  "name": "bankist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vynkode/bankist.git"
+  },
+  "author": "Vynkode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vynkode/bankist/issues"
+  },
+  "homepage": "https://github.com/Vynkode/bankist#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "prettier": "^2.2.1"
+  }
+}
